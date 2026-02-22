@@ -1,0 +1,15 @@
+body{
+    background-color: coral;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+img{
+    width: 328px;
+}
