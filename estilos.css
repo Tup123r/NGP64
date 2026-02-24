@@ -21,3 +21,7 @@ img{
 .secciones{
     font-weight: 800;
 }
+.separador{
+    margin: 0px 15px;
+    font-weight: bold;
+}
