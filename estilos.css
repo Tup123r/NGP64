@@ -1,13 +1,13 @@
 body{
-    background-color: coral;
-    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 a{
-    color: blue;
+    color: rgb(61, 61, 173);
     text-decoration: none;
 }
 a:hover{
-    color: blueviolet;
+    color: rgb(123, 68, 174);
     text-decoration: underline;
 }
 img{
@@ -20,8 +20,12 @@ img{
 }
 .secciones{
     font-weight: 800;
+    color: white;
 }
 .separador{
     margin: 0px 15px;
     font-weight: bold;
+}
+.blanco{
+    color: white;
 }
