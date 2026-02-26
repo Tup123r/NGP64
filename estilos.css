@@ -5,6 +5,7 @@ body{
 a{
     color: rgb(61, 61, 173);
     text-decoration: none;
+    font-weight: bold;
 }
 a:hover{
     color: rgb(123, 68, 174);
